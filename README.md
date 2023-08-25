@@ -7,5 +7,7 @@ of uuencode.c), that happen to compile just fine on v7 Unix.
 Building
 --------
 
+```
 cc -o uuencode uuencode.c
 cc -o uudecode uudecode.c
+```
